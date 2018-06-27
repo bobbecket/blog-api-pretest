@@ -1,0 +1,22 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "the blog api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbecket/blog-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbecket/blog-api/issues"
+  },
+  "homepage": "https://github.com/bobbecket/blog-api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
